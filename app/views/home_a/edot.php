@@ -1,0 +1,1 @@
+<p><?=$data['product']['code'];?></p>
